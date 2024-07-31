@@ -1,6 +1,6 @@
 FROM mcr.microsoft.com/playwright:bionic
 
-LABEL maintainer="Naoto Ida"
+LABEL maintainer="moneyfarm-playwright-proxy"
 
 WORKDIR /home/playwright/app
 
